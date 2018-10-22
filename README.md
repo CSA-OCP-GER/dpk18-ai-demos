@@ -33,7 +33,8 @@ Mit dem [Azure Custom Vision](https://www.customvision.ai) Service lassen sich d
 
 * Erkennen von Maschinen oder Arbeitswerkzeug auf einer Baustelle
 * Kennen von Gegenständen in der Produktion
-* Erkennen von z.B. Produkten in Social Media Posts oder anderen Bilder- und Videoquellen
+* Kennen von Produkten in einer Lagerhalle oder im Regal
+* Erkennen von z.B. Produkten oder Marken in Social Media Posts oder anderen Bilder- und Videoquellen
 
 In [dieser vorgefertigten Demo](https://github.com/csiebler/parking-lot-demo-custom-vision) erkennt [Azure Custom Vision](https://www.customvision.ai) anhand von Luftaufnahmen Autos in Bildern:
 
