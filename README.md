@@ -17,9 +17,9 @@ In diesem Repository sind die Codeschnipsel und Beispiele aus der Session "Küns
 
 Unter [diesem Link](https://azure.microsoft.com/de-de/try/cognitive-services/my-apis/) lassen sich kostenlose Zugangcodes für Cognitive Services generieren. Die folgenden Jupyter Notebooks (`*.ipynb`) lassen sich kostenlos auf [Azure Notebooks](https://notebooks.azure.com) ausführen:
 
-* [vision.ipynb](notesbooks/vision.ipynb) - Beispiele zu Cognitive Services Vision und Face API
-* [speech.ipynb](notesbooks/speech.ipynb) - Beispiele zu Cognitive Services Speech API
-* [search.ipynb](notesbooks/search.ipynb) - Beispiele zu Cognitive Services Search API (Bing)
+* [vision.ipynb](notebooks/vision.ipynb) - Beispiele zu Cognitive Services Vision und Face API
+* [speech.ipynb](notebooks/speech.ipynb) - Beispiele zu Cognitive Services Speech API
+* [search.ipynb](notebooks/search.ipynb) - Beispiele zu Cognitive Services Search API (Bing)
 
 Weitere Codebeispiele finden sich [hier](https://docs.microsoft.com/en-us/azure/cognitive-services/).
 
